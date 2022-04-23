@@ -9,3 +9,4 @@ configuration.json
 debridbot.code-workspace
 somemorebullshit.json
 test.*
+cache.sqlite

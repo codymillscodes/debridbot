@@ -1,0 +1,11 @@
+.trunk/
+.vscode/
+.env
+.flake8
+.isort.cfg
+.markdownlint.yaml
+bullshit.json
+configuration.json
+debridbot.code-workspace
+somemorebullshit.json
+test.*

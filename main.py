@@ -8,7 +8,6 @@ from discord.ext import commands
 with open("configuration.json", "r") as config:
     data = json.load(config)
     token = data["token"]
-    prefix = data["prefix"]
     owner_id = data["owner_id"]
 
 

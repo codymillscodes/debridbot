@@ -1,6 +1,5 @@
 import json
 import os
-
 import discord
 from discord.ext import commands
 
@@ -39,6 +38,5 @@ async def on_ready():
             type=discord.ActivityType.watching, name=f"{bot.command_prefix}help"
         )
     )
-
 
 bot.run(token)
